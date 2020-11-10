@@ -1,0 +1,82 @@
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\csc.exe
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\vbc.exe
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\DoanManhTuyen.dll.config
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\DoanManhTuyen.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\DoanManhTuyen.pdb
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\obj\Release\DoanManhTuyen.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\obj\Release\DoanManhTuyen.pdb
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\S7.Net.dll
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\bin\S7.Net.xml
+c:\users\lamnguyen\documents\visual studio 2015\Projects\DoanManhTuyen\DoanManhTuyen\obj\Release\DoanManhTuyen.csprojResolveAssemblyReference.cache
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\csc.exe
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\vbc.exe
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\DoanManhTuyen.dll.config
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\DoanManhTuyen.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\DoanManhTuyen.pdb
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\bin\S7.Net.xml
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\obj\Release\DoanManhTuyen.csprojAssemblyReference.cache
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\obj\Release\DoanManhTuyen.csproj.CoreCompileInputs.cache
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\obj\Release\DoanManhTuyen.csproj.CopyComplete
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\obj\Release\DoanManhTuyen.dll
+C:\Users\doublebean98\Desktop\New folder\DoanManhTuyen\obj\Release\DoanManhTuyen.pdb
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\DoanManhTuyen.dll.config
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\DoanManhTuyen.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\DoanManhTuyen.pdb
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\csc.exe
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\csc.exe.config
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\csc.rsp
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\csi.exe
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\csi.rsp
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.AppContext.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\vbc.exe
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\vbc.exe.config
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\vbc.rsp
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\bin\S7.Net.xml
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\obj\Release\DoanManhTuyen.csprojAssemblyReference.cache
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\obj\Release\DoanManhTuyen.csproj.CoreCompileInputs.cache
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\obj\Release\DoanManhTuyen.csproj.CopyComplete
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\obj\Release\DoanManhTuyen.dll
+C:\Users\doublebean98\Desktop\DoAnWebserver\DoanManhTuyen\obj\Release\DoanManhTuyen.pdb
