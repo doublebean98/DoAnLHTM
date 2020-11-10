@@ -162,15 +162,12 @@ iframe {
 	justify-content: center;
 	align-items: center;
 	padding: 15px;
-	background: #2575fc;
-	background: -webkit-linear-gradient(right, #040404, #000000, #656565);
-	background: -o-linear-gradient(right, #040404, #000000, #656565);
-	background: -moz-linear-gradient(right, #040404, #000000, #656565);
-	background: linear-gradient(right, #040404, #000000, #656565);
+	background: rgb(232,233,222);
+	background: linear-gradient(90deg, rgba(232,233,222,1) 0%, rgba(219,219,242,1) 62%, rgba(201,209,210,1) 100%);
 }
 
 .wrap-login100 {
-  width: 560px;
+	width: 560px;
 }
 
 
@@ -193,7 +190,7 @@ iframe {
   display: block;
   font-family: OpenSans-Regular;
   font-size: 30px;
-  color: #fefefe;
+  color: #111111;
   line-height: 1.2;
   text-transform: uppercase;
   text-align: center;

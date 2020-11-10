@@ -19,11 +19,10 @@
 
 <body>
 <form runat="server">
-<div id="container">
     <div id="NavBar">
          <nav class="navbar navbar-expand-lg navbar-light bg-light">
               <a class="navbar-brand" href="#">
-                  <img src="logo.png" width="45" height="45" class="d-inline-block align-top" alt="">&emsp;<span style="color:white">Classroom Management</span></a>
+                  <img src="logo.png" width="45" height="45" class="d-inline-block align-top" alt="">&emsp;<span style="color:black">Classroom Management</span></a>
              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span> </button>
 
@@ -31,8 +30,11 @@
                 <div class="mr-auto"></div>
     
              <ul class="navbar-nav my-2 my-lg-0">
+                 <li><div class="btn-group" role="group" aria-label="">
+                    <asp:Button ID="btn_conn" runat="server" CssClass="btn btn-link" Text="CONNECT" OnClick="btn_conn_Click" Width="112px" ForeColor="black"/>&nbsp;
+                    <asp:Button ID="btn_disconn" runat="server" CssClass="btn btn-link" Text="DISCONNECT" OnClick="btn_disconn_Click" ForeColor="black"/></div></li>
             <li class="nav-item dropdown">
-             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-display="static" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="color:white"><asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></a>
+             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-display="static" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="color:black"><asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></a>
              <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Change password</a>
             <a> <asp:LinkButton ID="btn_logout" runat="server" OnClick="btnlogout_Click" class="dropdown-item">Log out</asp:LinkButton> </a>          
@@ -42,30 +44,48 @@
             </div>     
             </nav>
     </div><!--#NavBar-->
-    <div class="row" id="control">
-        <div id="box1" class="col">
-            <div class="btn-group" role="group" aria-label="">
-                <asp:Button ID="btn_conn" runat="server" CssClass="btn btn-outline-dark" Text="CONNECT" OnClick="btn_conn_Click" />
-                <asp:Button ID="btn_disconn" runat="server" CssClass="btn btn-outline-dark" Text="DISCONNECT" OnClick="btn_disconn_Click"/></div>
-         
-            <p><div class="btn-group" role="group" aria-label="">
-                <asp:Button ID="btn_fanon" runat="server" CssClass="btn btn-outline-dark" Text="ON" OnClick="btn_fanon_Click" />
-                <asp:Button ID="btn_fanoff" runat="server" CssClass="btn btn-outline-dark" Text="OFF" OnClick="btn_fanoff_Click" /></div></p>
-            <p><div class="btn-group" role="group" aria-label="">
-                <asp:Button ID="btn_open" runat="server" CssClass="btn btn-outline-dark" Text="OPEN" OnClick="btn_open_Click" />
-                <asp:Button ID="btn_close" runat="server" CssClass="btn btn-outline-dark" Text="CLOSE" OnClick="btn_close_Click" /></div></p>
-            <p><div class="btn-group" role="group" aria-label="">
-                <asp:Button ID="btn_alarmin" runat="server" CssClass="btn btn-outline-dark" Text="IN" OnClick="btn_alarmin_Click" />
-                <asp:Button ID="btn_alarmout" runat="server" CssClass="btn btn-outline-dark" Text="OUT" OnClick="btn_alarmout_Click" /></div></p>
-            <p><div class="btn-group" role="group" aria-label="">
-                <asp:Button ID="btn_lampon" runat="server" CssClass="btn btn-outline-dark" Text="ON" OnClick="btn_lampon_Click" />
-                <asp:Button ID="btn_lampoff" runat="server" CssClass="btn btn-outline-dark" Text="OFF" OnClick="btn_lampoff_Click" /></div></p>
+    <div id="banner">
+        <div id="left">BẢNG ĐIỀU KHIỂN</div>
+        <div id="center">THIẾT BỊ PHÒNG HỌC</div>
+        <div id="right">GIỚI THIỆU<div>
         </div>
-        <div id="box2" class="col">
-               
-        </div>
-    </div><!--#row-->
-</div><!--#container-->
+    </div><!--banner-->
+    <div id="main">
+        <div id="left">
+            <ul>
+                <li><span style="text-align:left"><b>FAN</b></span>&emsp;&emsp;&emsp;&emsp;<div class="btn-group" role="group" aria-label="">
+                    <asp:Button ID="btn_fanon" runat="server" CssClass="btn btn-secondary" Text="ON" OnClick="btn_fanon_Click" Width="70px" />&nbsp;
+                    <asp:Button ID="btn_fanoff" runat="server" CssClass="btn btn-secondary" Text="OFF" OnClick="btn_fanoff_Click" Width="70px" /></div></li>
+                <li><span style="text-align:left"><b>DOOR</b></span>&emsp;&emsp;&emsp;<div class="btn-group" role="group" aria-label="">
+                    <asp:Button ID="btn_open" runat="server" CssClass="btn btn-secondary" Text="OPEN" OnClick="btn_open_Click" Width="70px" />&nbsp;
+                    <asp:Button ID="btn_close" runat="server" CssClass="btn btn-secondary" Text="CLOSE" OnClick="btn_close_Click" Width="70px" /></div></li>
+                <li><span style="text-align:left"><b>LIGHT</b></span>&emsp;&emsp;&emsp;<div class="btn-group" role="group" aria-label="">
+                    <asp:Button ID="btn_lampon" runat="server" CssClass="btn btn-secondary" Text="ON" OnClick="btn_lampon_Click" Width="70px" />&nbsp;
+                    <asp:Button ID="btn_lampoff" runat="server" CssClass="btn btn-secondary" Text="OFF" OnClick="btn_lampoff_Click" Width="70px" /></div></li>
+                <li><span style="text-align:left"><b>ALARM</b></span>&emsp;&emsp;&nbsp;&nbsp;&nbsp;<div class="btn-group" role="group" aria-label="">
+                    <asp:Button ID="btn_alarmin" runat="server" CssClass="btn btn-secondary" Text="IN" OnClick="btn_alarmin_Click" Width="60px" />&nbsp;
+                    <asp:Button ID="btn_alarmout" runat="server" CssClass="btn btn-secondary" Text="OUT" OnClick="btn_alarmout_Click" Width="60px" /></div></li>
+                <li>
+                    <asp:Label ID="Label2" runat="server" Text="Chưa kết nối"></asp:Label></li>
+            </ul>
+        </div><!--#left-->
+        <div id="center"></div>
+        <div id="right">
+            <b>Đề tài “Giám sát và điều khiển các thiết bị trong phòng học dựa trên nền WebServer” – được thực hiện bởi Đoàn Mạnh Tuyền.</b>
+            <p>Hiện nay, cùng với sự phát triển của công nghệ 4.0, các hệ thông IoT đang được triển khai ngày càng rộng dãi. Chính vì vậy, em đưa ra ý tưởng về ứng dụng công nghệ IoT để kết nối và điều khiển các thiết bị phòng học bằng PLC thông qua WebServer để tạo nên một phòng học thông minh. 
+                Đây là một đề tài mang tính ứng dụng cao, hoàn toàn thiết thực và có thể áp dụng thực tế trong nhà trường.</p></div>
+            
+        </div><!--#right-->
+
+    </div><!--#main-->
+    <div id="footer">&#169;Đoàn Mạnh Tuyền - D11TDH&DKTB</div><!--#footer-->
+
+
+
+
+
+
+
   
 
   <!-- Optional JavaScript -->

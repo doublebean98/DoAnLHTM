@@ -31,8 +31,8 @@
     
              <ul class="navbar-nav my-2 my-lg-0">
                  <li><div class="btn-group" role="group" aria-label="">
-                    <asp:Button ID="btn_conn" runat="server" CssClass="btn btn-link" Text="CONNECT" OnClick="btn_conn_Click" Width="112px" ForeColor="White"/>&nbsp;
-                    <asp:Button ID="btn_disconn" runat="server" CssClass="btn btn-link" Text="DISCONNECT" OnClick="btn_disconn_Click" ForeColor="White"/></div></li>
+                    <asp:Button ID="btn_conn" runat="server" CssClass="btn btn-link" Text="CONNECT" OnClick="btn_conn_Click" Width="112px" ForeColor="black"/>&nbsp;
+                    <asp:Button ID="btn_disconn" runat="server" CssClass="btn btn-link" Text="DISCONNECT" OnClick="btn_disconn_Click" ForeColor="black"/></div></li>
             <li class="nav-item dropdown">
              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-display="static" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="color:black"><asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></a>
              <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
@@ -78,7 +78,7 @@
         </div><!--#right-->
 
     </div><!--#main-->
-    <div id="footer">&#169;Đoàn Mạnh Tuyền - D11TDH&DKTB</div><!--#footer-->
+    <div id="footer" style="color:black">Copyright&#169;Đoàn Mạnh Tuyền</div><!--#footer-->
 
 
 

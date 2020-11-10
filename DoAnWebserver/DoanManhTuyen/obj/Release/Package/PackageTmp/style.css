@@ -1,22 +1,83 @@
 ﻿.navbar.bg-light {
-    background: #2575fc;
-    background: -webkit-linear-gradient(left, #6a11cb, #2575fc);
-    background: -o-linear-gradient(left, #6a11cb, #2575fc);
-    background: -moz-linear-gradient(left, #6a11cb, #2575fc);
-    background: linear-gradient(left, #6a11cb, #2575fc);
-.form-control
-{
-    border-radius: 4.25rem;
+    background: rgb(232,233,222);
+    background: linear-gradient(90deg, rgba(232,233,222,1) 0%, rgba(219,219,242,1) 62%, rgba(201,209,210,1) 100%);
+    width: 100%;
+    height: 10%
 }
+
+
+
+#baner {
+    width:100%;
+    padding-right:5px;
+    height:10%
 }
-body {
-    background:#f2f5bc
+#banner #left {
+    width: 15%;
+    float: left;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid #294cf5;
 }
-.container {
-    display: box;
-    box-orient: horizontal;
-    box-pack: center;
-    box-align: center;
+#banner #center {
+    width: 60%;
+    float: left;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid #294cf5;
+}
+#banner #right {
+    width: 25%;
+    float: left;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid #294cf5;
+}
+#main {
+    width:100%;
+    height:60%;
+}
+#main #left {
+        width: 15%;
+        background: #ffffff;
+        float: left;
+        background-color: azure;
+        height: 100%;
+}
+#main #left ul li {
+            list-style: none;
+            padding-top: 20px;
+            text-align: left;
+            margin-left: auto;
+            text-align: left;
+            height: 100%
+
+}
+    #main #center {
+        width: 60%;
+        float: left;
+        height: 100%;
+        background-color: azure;
+    }
+    #main #right {
+        width: 25%;
+        float: left;
+        background-color: azure;
+        height: 100%;
+    }
+#footer {
+    background: rgb(232,233,222);
+    background: linear-gradient(90deg, rgba(232,233,222,1) 0%, rgba(219,219,242,1) 62%, rgba(201,209,210,1) 100%);
+    border-top: 5px solid #333;
+    color: #ccc;
+    font-weight: bold;
+    height: 10%;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
 
 

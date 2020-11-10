@@ -56,7 +56,7 @@
 					</div>
 					
 					<div class="text-center w-full p-t-23">
-						<a href="#" class="txt1">
+						<a href="#" class="txt1" style="color:black">
 							Forgot password?
 						</a>
 					</div>

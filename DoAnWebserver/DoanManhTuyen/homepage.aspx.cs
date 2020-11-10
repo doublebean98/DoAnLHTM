@@ -51,7 +51,7 @@ namespace DoanManhTuyen
                 plc.Write("M0.0", 0);
                 plc.Close();
                 btn_conn.ForeColor = System.Drawing.Color.Green;
-                btn_disconn.ForeColor = System.Drawing.Color.White;
+                btn_disconn.ForeColor = System.Drawing.Color.Black;
                 Session["Trangthaiketnoi"] = "Đã kết nối";
                     Label2.Text = Session["Trangthaiketnoi"].ToString();
             }
@@ -70,7 +70,7 @@ namespace DoanManhTuyen
             plc.Write("M0.1", 1);
             plc.Write("M0.1", 0);
                 btn_disconn.ForeColor = System.Drawing.Color.Red;
-                btn_conn.ForeColor = System.Drawing.Color.White;
+                btn_conn.ForeColor = System.Drawing.Color.Black;
                 Session["Trangthaiketnoi"] = "Ngắt kết nối";
                 Label2.Text = Session["Trangthaiketnoi"].ToString();
             plc.Close();
